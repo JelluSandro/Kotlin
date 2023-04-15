@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mpp.dynamicarray.DynamicArrayTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-17T00:53:39" hostname="DESKTOP-87MDRIP" time="867.958">
+  <properties/>
+  <testcase name="stressTest" classname="mpp.dynamicarray.DynamicArrayTest" time="636.405"/>
+  <testcase name="modelCheckingTest" classname="mpp.dynamicarray.DynamicArrayTest" time="231.553"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

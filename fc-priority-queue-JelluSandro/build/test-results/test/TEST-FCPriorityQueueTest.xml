@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FCPriorityQueueTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-22T01:28:29" hostname="DESKTOP-87MDRIP" time="643.157">
+  <properties/>
+  <testcase name="stressTest" classname="FCPriorityQueueTest" time="268.583"/>
+  <testcase name="modelCheckingTest" classname="FCPriorityQueueTest" time="374.574"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

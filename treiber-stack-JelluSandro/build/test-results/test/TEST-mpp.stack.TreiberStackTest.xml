@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mpp.stack.TreiberStackTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-06T14:47:38" hostname="DESKTOP-87MDRIP" time="179.861">
+  <properties/>
+  <testcase name="stressTest" classname="mpp.stack.TreiberStackTest" time="133.685"/>
+  <testcase name="modelCheckingTest" classname="mpp.stack.TreiberStackTest" time="46.176"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

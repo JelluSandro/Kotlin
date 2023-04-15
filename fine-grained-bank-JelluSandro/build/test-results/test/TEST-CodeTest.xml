@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-17T18:48:46" hostname="DESKTOP-87MDRIP" time="0.077">
+  <properties/>
+  <testcase name="testAccountLock" classname="CodeTest" time="0.04"/>
+  <testcase name="testFineGrainedLock" classname="CodeTest" time="0.033"/>
+  <testcase name="testNoSynchronizedMethods" classname="CodeTest" time="0.004"/>
+  <testcase name="testImplFields" classname="CodeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

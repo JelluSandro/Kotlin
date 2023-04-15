@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StressTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-13T16:46:04" hostname="DESKTOP-87MDRIP" time="3.029">
+  <properties/>
+  <testcase name="testStress" classname="StressTest" time="3.029"/>
+  <system-out><![CDATA[1: Working 50484
+2: Working 112711
+3: Working 173657
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

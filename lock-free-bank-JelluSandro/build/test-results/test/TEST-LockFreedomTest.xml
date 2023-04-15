@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LockFreedomTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-11T17:29:32" hostname="DESKTOP-87MDRIP" time="5.02">
+  <properties/>
+  <testcase name="testLockFreedom" classname="LockFreedomTest" time="5.02"/>
+  <system-out><![CDATA[=== LockFreedomTest
+--- 0: Performed 0 operations
+--- 1: Performed 479650 operations (pause/resumes 884)
+--- 2: Performed 3465021 operations (pause/resumes 12644)
+--- 3: Performed 6462665 operations (pause/resumes 23704)
+--- 4: Performed 8953007 operations (pause/resumes 31657)
+--- 5: Performed 11841095 operations (pause/resumes 41779)
+------ Done with 11842957 operations (pause/resumes 41796)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
